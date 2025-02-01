@@ -1,0 +1,5 @@
+1/31/2025 Notes: 
+- make sure that the text fills in all different screen sizes
+- fix the header spacing 
+- fix the front page, experiences, and etc 
+
